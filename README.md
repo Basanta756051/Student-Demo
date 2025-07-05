@@ -1,3 +1,3 @@
 # Student-Demo
-This is my first Repository
+This is my first Repository.
 Author - Basanta kumar Behera
